@@ -1,0 +1,2 @@
+Usuario: Juan
+Número de apariciones: 2, Entonces la cantidad es par.

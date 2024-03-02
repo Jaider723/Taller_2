@@ -1,0 +1,15 @@
+elefante
+gato
+hola
+iguana
+jirafa
+pato
+abeja
+ardilla
+caballo
+koala
+oso
+perro
+serpiente
+tigre
+tortuga
